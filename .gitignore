@@ -1,0 +1,8 @@
+node_modules
+tmp
+*.js
+npm-debug.log*
+build
+ads-blocker
+reports
+debug.log
