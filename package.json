@@ -9,8 +9,6 @@
     "regression": "npm run tsc && npm run test",
     "lint": "gulp tslint"
   },
-  "author": "Varun Gaur",
-  "license": "MIT",
   "dependencies": {
     "@types/lodash": "4.14.86",
     "bluebird": "3.5.1",
